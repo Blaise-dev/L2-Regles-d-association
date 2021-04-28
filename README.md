@@ -11,6 +11,14 @@ APRIORI Algorithm is divided into 3 parts
    * Finding item set i.e. combinations of items from items generated from previous iterations
 3. Generating Association Rules.
 
+COMPILATION
+===
+1. Run CMD.exe and move to the project directory
+2. Type:
+    - javac AprioriDataMining.java.
+    - java AprioriDataMining online_retail_II.csv
+online_retail_II.csv is the dataset name.
+
 CALCULATIONS
 ===
 1. Support (A) = (no of times 'A' appears in transactional database) / (total no of transactions)
@@ -18,6 +26,7 @@ CALCULATIONS
 
 DATASET
 ===
+Example of Dataset.
 ```
 iPhone;Samsung;Lenevo
 Nokia;iPhone;Samsung;LG;Lenevo
