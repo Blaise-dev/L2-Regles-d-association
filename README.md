@@ -17,6 +17,7 @@ COMPILATION
 2. Type:
     - javac AprioriDataMining.java.
     - java AprioriDataMining online_retail_II.csv
+
 online_retail_II.csv is the dataset name.
 
 CALCULATIONS
